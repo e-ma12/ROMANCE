@@ -81,8 +81,15 @@ a:hover {
     font-family: "Yeseva One";
 }
 
-@media (width < 850px) {
+@media (maxwidth < 850px) {
     section {
         grid-template-columns: 1fr;
+    }
+    body {
+        font-size: 3vw;
+        line-height: 5vw;
+        h1 {
+            line-height: 7vw;
+        }
     }
 }
