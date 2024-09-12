@@ -100,7 +100,7 @@ a:hover {
     font-size: 1.25rem;
 }
 
-@media (width < 1300px) {
+@media (width < 1500px) {
     section {
         grid-template-columns: 1fr;
     }
