@@ -4,7 +4,7 @@
 html {
     --col-dark: #47000e;
     --col-light: #fff0fa;
-    --col-accent: #ff3035;
+    --col-accent: #dea0a0;
 }
 
 body {
@@ -48,6 +48,7 @@ img {
 h2 {
     font-family: "Yeseva One";
     margin: 1rem;
+    font-size: 2rem;
 }
 
 .book {
@@ -96,6 +97,7 @@ a:hover {
 .read {
     font-style: italic;
     font-family: "Yeseva One";
+    font-size: 1.25rem;
 }
 
 @media (width < 1300px) {
