@@ -80,11 +80,3 @@ a:hover {
     font-style: italic;
     font-family: "Yeseva One";
 }
-
-@media (width < 850px) {
-
-
-    section {
-        grid-template-columns: 1fr;
-    }
-}
