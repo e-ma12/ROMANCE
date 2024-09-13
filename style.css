@@ -52,6 +52,7 @@ h2 {
 }
 
 .book {
+    font-size: 1.25rem;
     display: grid;
     background: var(--col-light);
     border-radius: 50px;
@@ -59,7 +60,7 @@ h2 {
     display: grid;
     align-items: end;
     padding: 2rem;
-    line-height: 1.6rem;
+    line-height: 2.25rem;
 }
 
 section {
