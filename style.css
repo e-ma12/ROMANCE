@@ -20,7 +20,7 @@ body {
     max-width: 50ch;
     margin: 0 auto;
     font-size: 1.5rem;
-    padding: 0.5rem;
+    padding: 1rem;
     border-radius: 25px;
     background: #fff0faba;
 }
@@ -101,7 +101,7 @@ a:hover {
     font-size: 1.25rem;
 }
 
-@media (width < 1100px) {
+@media (max-width: 1100px) {
     section {
         grid-template-columns: 1fr;
     }
